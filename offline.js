@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1568272188,
+	"version": 1568821225,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -104,6 +104,11 @@
 		"images/copterspawn-sheet0.png",
 		"images/parachut-sheet0.png",
 		"images/bossbullet-sheet0.png",
+		"images/sprite61-sheet0.png",
+		"images/backbutton-sheet0.png",
+		"images/sprite62-sheet0.png",
+		"images/loseback-sheet0.png",
+		"images/winwarp-sheet0.png",
 		"media/404562__superphat__assaultrifle1.m4a",
 		"media/404562__superphat__assaultrifle1.ogg",
 		"media/cs-go desert eagle sound [counter-strike- source] [sound mods].ogg",
